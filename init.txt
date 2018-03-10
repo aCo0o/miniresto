@@ -1,2 +1,7 @@
-• initial...
-..................
+°•-.   miniresto (Beta)          .-•°°•-.  By (aCo0o) - by aco     .-•°
+   |                             |      |                          |
+   | - Simple RestAPI            |      | - a.Cincarevic           |
+   |    for MongoDB & NodeJS     |      |    for MongoDB & NodeJS  |
+   '.............................'      '..........................'
+   
+initial...
